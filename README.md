@@ -6,6 +6,10 @@ This paper explores the application of machine learning in predicting optimal lo
 ## Keywords
 Keywords: predictive modeling, linear regression, random forest, environmental impact, CO2 emissions, temperature
 
+## Datasets
+- [Countries CO2 Emission and more...](https://www.kaggle.com/datasets/lobosi/c02-emission-by-countrys-grouth-and-population)
+- [Weather Data](https://data.open-power-system-data.org/weather_data/)
+
 ## Requirements
 - Python
 - Jupyter Notebook client
